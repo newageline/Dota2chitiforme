@@ -1,0 +1,43 @@
+﻿<root>
+	<styles>
+		<include src="s2r://panorama/styles/dotastyles.vcss_c" />
+		<include src="s2r://panorama/styles/magadan.vcss_c" />
+	</styles>
+	<Panel class="DamageCalculator1" style="width:400px;height:100px;flow-children: right;background-color:black;">
+		<Panel style="height:100%;flow-children:down;">
+			<DOTAHeroImage heroname="" style="width:40px;height:24px;horizontal-align:center;"/>
+			<Label text="Damage: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="DPS: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="1v1Win: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="time4Win: " style="font-size:14px;horizontal-align:center;"/>
+		</Panel>
+		<Panel style="height:100%;flow-children:down;">
+			<DOTAHeroImage heroname="" style="width:40px;height:24px;horizontal-align:center;"/>
+			<Label text="Damage: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="DPS: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="1v1Win: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="time4Win: " style="font-size:14px;horizontal-align:center;"/>
+		</Panel>
+		<Panel style="height:100%;flow-children:down;">
+			<DOTAHeroImage heroname="" style="width:40px;height:24px;horizontal-align:center;"/>
+			<Label text="Damage: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="DPS: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="1v1Win: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="time4Win: " style="font-size:14px;horizontal-align:center;"/>
+		</Panel>
+		<Panel style="height:100%;flow-children:down;">
+			<DOTAHeroImage heroname="" style="width:40px;height:24px;horizontal-align:center;"/>
+			<Label text="Damage: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="DPS: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="1v1Win: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="time4Win: " style="font-size:14px;horizontal-align:center;"/>
+		</Panel>
+		<Panel style="height:100%;flow-children:down;">
+			<DOTAHeroImage heroname="" style="width:40px;height:24px;horizontal-align:center;"/>
+			<Label text="Damage: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="DPS: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="1v1Win: " style="font-size:14px;horizontal-align:center;"/>
+			<Label text="time4Win: " style="font-size:14px;horizontal-align:center;"/>
+		</Panel>
+    </Panel> 
+</root>
